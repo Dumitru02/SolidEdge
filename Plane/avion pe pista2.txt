@@ -1,0 +1,86 @@
+
+--- Simulating Asm1.asm on Monday, January 15, 2018 1:37:57 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:37:58 PM ---
+
+--- Simulating Asm1.asm on Monday, January 15, 2018 1:42:48 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:42:49 PM ---
+
+The following new mates are mapped in motion.
+Axial177
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:49:51 PM, Frames: 50, Time: 1 ---
+ Position Kinematic Analysis Error:
+ The model contains incompatible redundant constraints; i.e., constraints 
+ that are contradictory and can not be simultaneously satisfied.
+
+ Suggested course of action:
+ Try to eliminate some or all of the redundant constraints in your model.
+
+
+--- Simulation ended on Monday, January 15, 2018 1:49:51 PM ---
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:50:10 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:50:11 PM ---
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:50:29 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:50:30 PM ---
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:50:32 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:50:33 PM ---
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:50:51 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:50:51 PM ---
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:52:54 PM, Frames: 50, Time: 1 ---
+ Position Kinematic Analysis Error:
+ The model contains incompatible redundant constraints; i.e., constraints 
+ that are contradictory and can not be simultaneously satisfied.
+
+ Suggested course of action:
+ Try to eliminate some or all of the redundant constraints in your model.
+
+
+--- Simulation ended on Monday, January 15, 2018 1:52:54 PM ---
+
+The following new mates are mapped in motion.
+Axial674
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:57:02 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:57:03 PM ---
+
+--- Simulating avion pe pista.asm on Monday, January 15, 2018 1:57:40 PM, Frames: 50, Time: 1 ---
+
+--- Simulation ended on Monday, January 15, 2018 1:57:41 PM ---
+
+The following new mates are mapped in motion.
+Planar974
+Planar975
+Axial976
+Planar977
+Planar978
+Axial979
+Planar980
+Planar981
+Axial982
+Planar983
+Planar984
+Axial985
+Planar986
+Planar987
+Axial988
+Planar989
+Axial990
+Planar991
+Axial992
+Planar993
+Axial994
+Planar995
+Axial996
+Axial997
